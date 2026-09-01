@@ -25,7 +25,7 @@ const Home = () => {
             <div className="homecontent">
                 <div className="message">
                     <h2>Welcome To <span>Lumora</span></h2>
-                    <p>Stories, ideas , knowledge and many more worth sharing</p>
+                    <p>Stories, ideas & knowledge worth sharing</p>
                     <button onClick={()=>navigate("/wholeblog")}>Explore Articles</button>
                 </div>
                 <div ref={divref} className={ divshow ? "featuredposts show" : "featuredposts"}>
