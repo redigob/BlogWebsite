@@ -24,7 +24,7 @@ const Home = () => {
         <div className="home">
             <div className="homecontent">
                 <div className="message">
-                    <h2>Welcome To <span>Lumora</span> from the feature branch</h2>
+                    <h2>Welcome To <span>Lumora</span>from main</h2>
                     <p>Stories, ideas & knowledge worth sharing</p>
                     <button onClick={()=>navigate("/wholeblog")}>Explore Articles</button>
                 </div>
