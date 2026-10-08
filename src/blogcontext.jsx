@@ -27,7 +27,7 @@ export function Blogprovider({children}){
         .catch(error=>setError(error.message))
 
 
-       fetch('http://localhost:3000/blogs')
+       fetch(`${import.meta.env.VITE_API_URL}/blogs`)
        .then(res=>{
             if(!res.ok){
                 throw new Error ("Failed to fetch")
@@ -38,7 +38,7 @@ export function Blogprovider({children}){
        .catch(error=>setError(error.message))
 
 
-        fetch('http://localhost:3000/sideblogs')
+        fetch(`${import.meta.env.VITE_API_URL}/sideblogs`)
         .then(res=>{
             if(!res.ok){
                 throw new Error ("Failed to fetch")
@@ -48,7 +48,7 @@ export function Blogprovider({children}){
         .then(data=>(setError(''),setSideblogs(data),console.log(data)))
         .catch(error=>setError(error.message))
 
-        fetch('http://localhost:3000/world')
+        fetch(`${import.meta.env.VITE_API_URL}/world`)
         .then(res=>{
             setLoading(true)
             if(!res.ok){
