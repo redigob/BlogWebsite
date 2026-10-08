@@ -34,6 +34,10 @@
     text-shadow: 2px 2px 10px black;
 }
 
+.bars svg{
+    cursor: pointer;
+}
+
 .message span{
     margin-bottom: -10px;
     color: #9c7777;
@@ -49,6 +53,7 @@
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgb(61, 36, 36);
     border: none;
+    cursor: pointer;
     background:linear-gradient(90deg,rgb(90, 39, 39),rgb(123, 72, 72));
 }
 
@@ -681,7 +686,7 @@
     object-fit: cover;
     filter: blur(0px);
     position: absolute;
-    top: 100px;
+    top: 150px;
     box-shadow: 0px 0px 10px rgb(56, 49, 49);
     border-radius: 5px;
 }
