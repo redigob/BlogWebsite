@@ -16,7 +16,7 @@ export function Blogprovider({children}){
     const searchedBlogs = (blogs && blogs.filter(blog=>blog.title.toLowerCase().includes(input.toLowerCase())))
     console.log(error)
     useEffect(()=>{
-       fetch('http://localhost:3000/twoblogs')
+       fetch(import.meta.env.VITE_API_URL + '/twoblogs')
         .then(res=>{
             if(!res.ok){
                 throw new Error ("Failed to fetch")
@@ -38,7 +38,7 @@ export function Blogprovider({children}){
        .catch(error=>setError(error.message))
 
 
-        fetch('http://localhost:3000/side blogs')
+        fetch('http://localhost:3000/sideblogs')
         .then(res=>{
             if(!res.ok){
                 throw new Error ("Failed to fetch")
