@@ -487,7 +487,7 @@
     "title": "A Country Where Tradition Meets Tomorrow",
     "content": "Japan is a fascinating blend of ancient traditions and futuristic innovation. In the same city, you can find centuries-old temples standing close to skyscrapers, quiet tea ceremonies alongside advanced technology, and traditional gardens surrounded by busy streets. Japan is also famous for its attention to detail, from carefully prepared food to beautifully arranged architecture. One of the country's most recognizable natural sights is Mount Fuji, which has inspired artists and travelers for generations. Japan's culture places strong value on respect, discipline, craftsmanship, and harmony, making it a country where even ordinary daily activities can feel deeply intentional.",
     "category": "Culture",
-    "image": "./src/assets/japan.jpg"
+    "image": "/images/japan.jpg"
   },
   {
     "id": 2,
@@ -496,7 +496,7 @@
     "title": "Where History Lives in Everyday Life",
     "content": "Italy is often described as an open-air museum because reminders of its long history can be found almost everywhere. Ancient Roman ruins, Renaissance paintings, medieval towns, and centuries-old churches are woven into modern Italian life. Cities such as Rome, Florence, and Venice each have their own distinctive character. Italy is also famous for its food culture, where meals are often connected to family, tradition, and regional identity. From handmade pasta in small villages to grand architecture in historic cities, Italy shows how the past can remain an important part of everyday life rather than something preserved only in museums.",
     "category": "History",
-    "image": "./src/assets/italy.jpg"
+    "image": "/images/italy.jpg"
   },
   {
     "id": 3,
@@ -505,7 +505,7 @@
     "title": "A Civilization Built Along the Nile",
     "content": "Egypt is home to one of the world's most famous ancient civilizations. The Nile River has played a central role in Egyptian life for thousands of years, providing water and supporting agriculture in an otherwise dry landscape. Ancient Egyptians built enormous monuments, developed sophisticated systems of writing, and created complex religious traditions. The pyramids of Giza remain some of the most recognizable structures on Earth. Modern Egypt is much more than its ancient history, however. Cairo is a huge and energetic city, while the country also contains deserts, coastal communities, and the fertile Nile Valley.",
     "category": "History",
-     "image": "./src/assets/egypt.jpg"
+     "image": "/images/egypt.jpg"
   },
   {
     "id": 4,
@@ -514,7 +514,7 @@
     "title": "The Country of Forests, Rhythm, and Diversity",
     "content": "Brazil is the largest country in South America and is famous for its extraordinary natural and cultural diversity. A large portion of the Amazon rainforest lies within Brazil, making the country an important part of the world's most biologically diverse ecosystems. Brazil is also known for its vibrant music, dance, festivals, and football culture. Cities such as Rio de Janeiro combine dramatic mountains, beaches, and dense urban neighborhoods. With Portuguese as its official language and hundreds of cultural influences shaping its identity, Brazil demonstrates how geography, history, and migration can come together to create a remarkably diverse society.",
     "category": "Nature",
-     "image": "./src/assets/brazil.jpg"
+     "image": "/images/brazil.jpg"
   },
   {
     "id": 5,
@@ -523,7 +523,7 @@
     "title": "A World of Languages and Traditions",
     "content": "India is one of the world's most culturally and geographically diverse countries. Its landscapes range from the Himalayan mountains in the north to tropical coastlines in the south, with deserts, forests, plains, and major rivers in between. India is home to many languages, cuisines, festivals, religions, and artistic traditions. Its history includes ancient civilizations, powerful empires, and centuries of cultural exchange. The country is also one of the world's largest technology and business centers. From colorful festivals and regional foods to classical music and modern cities, India's diversity can make it feel like many different worlds existing within one country.",
     "category": "Culture",
-    "image": "./src/assets/india.jpg"
+    "image": "/images/india.jpg"
   },
   {
     "id": 6,
@@ -532,7 +532,7 @@
     "title": "Where Africa Meets the Arab World",
     "content": "Morocco sits at a fascinating crossroads between Africa, Europe, and the Arab world. Its culture has been shaped by Amazigh, Arab, African, Jewish, and European influences over centuries. Traditional markets, known as souks, are filled with spices, textiles, ceramics, and handmade crafts. Morocco's landscape is equally varied, ranging from Atlantic beaches and fertile valleys to the dramatic Atlas Mountains and the Sahara Desert. Cities such as Marrakech and Fez are famous for their historic medinas and distinctive architecture. The country's food, architecture, music, and crafts reflect the many cultures that have influenced Morocco throughout its history.",
     "category": "Culture",
-     "image": "./src/assets/morocco.jpg"
+     "image": "/images/morocco.jpg"
   },
   {
     "id": 7,
@@ -541,7 +541,7 @@
     "title": "The Land of Fire and Ice",
     "content": "Iceland is known for an unusual combination of glaciers and volcanic activity. The island sits on the Mid-Atlantic Ridge, where tectonic plates are moving apart, contributing to its geological activity. Iceland's landscape includes volcanoes, waterfalls, lava fields, glaciers, and geothermal springs. Because of its northern location, the country also experiences extremely long summer days and very short winter days. During certain times of the year, visitors may see the northern lights dancing across the night sky. Iceland's dramatic landscape has helped create a culture closely connected to nature and the country's unusual environment.",
     "category": "Nature",
-     "image": "./src/assets/iceland.jpg"
+     "image": "/images/iceland.jpg"
   },
   {
     "id": 8,
@@ -550,7 +550,7 @@
     "title": "A Country of Islands and Ancient Ideas",
     "content": "Greece is famous for its ancient civilization, beautiful islands, and strong connection to the Mediterranean Sea. Ancient Greek thinkers contributed enormously to philosophy, mathematics, science, literature, and political ideas that continue to influence the modern world. Athens, the capital, is home to landmarks such as the Acropolis, which overlooks the city. Beyond the mainland, Greece contains thousands of islands and islets, many surrounded by clear blue waters. Greek culture also places importance on food, family, community, and hospitality. The country's ancient ruins and modern lifestyle exist side by side, creating a unique connection between history and everyday life.",
     "category": "History",
-     "image": "./src/assets/greece.jpg"
+     "image": "/images/greece.jpg"
   },
   {
     "id": 9,
@@ -559,7 +559,7 @@
     "title": "Where Wildlife and Culture Meet",
     "content": "Kenya is known around the world for its extraordinary wildlife and landscapes, but its identity goes far beyond safari tourism. The country contains savannas, mountains, forests, lakes, and a beautiful coastline along the Indian Ocean. Kenya is home to elephants, lions, giraffes, zebras, and many other species. It is also culturally diverse, with many communities contributing their own languages, traditions, music, and food. Nairobi, the capital, is a modern and rapidly developing city. Kenya's combination of urban life, ancient cultural traditions, and remarkable natural environments makes it one of Africa's most fascinating countries.",
     "category": "Nature",
-     "image": "./src/assets/kenya.jpg"
+     "image": "/images/kenya.jpg"
   },
   {
     "id": 10,
@@ -568,7 +568,7 @@
     "title": "Art, Architecture, and the French Way of Life",
     "content": "France has had an enormous influence on art, fashion, architecture, food, and political thought. Paris is famous for landmarks such as the Eiffel Tower, the Louvre, and the Notre-Dame area, but France extends far beyond its capital. The country contains Mediterranean beaches, Alpine mountains, vineyards, forests, and historic villages. French cuisine has influenced professional cooking around the world, while French fashion houses have shaped global ideas about luxury and style. France's long history has produced a rich collection of art, literature, architecture, and traditions that continue to influence modern culture.",
     "category": "Art & Fashion",
-     "image": "./src/assets/france.jpg"
+     "image": "/images/france.jpg"
   },
   {
     "id": 11,
@@ -577,7 +577,7 @@
     "title": "A Culture Built from Many Civilizations",
     "content": "Mexico has a rich history shaped by ancient civilizations, European colonization, and diverse Indigenous cultures. Long before Spanish arrival, civilizations such as the Maya and Aztec developed complex cities, calendars, agricultural systems, and artistic traditions. Today, Mexico is known for colorful celebrations, music, art, and one of the world's most recognizable cuisines. Its geography is equally impressive, including deserts, mountains, tropical forests, and long coastlines. Mexican culture varies greatly from region to region, with different communities maintaining their own traditions, languages, foods, and celebrations while sharing a strong national identity.",
     "category": "Culture",
-     "image": "./src/assets/mexico.jpg"
+     "image": "/images/mexico.jpg"
   },
   {
     "id": 12,
@@ -586,7 +586,7 @@
     "title": "Life Among the Fjords",
     "content": "Norway is famous for its dramatic fjords, mountains, forests, and long coastline. Fjords are deep coastal valleys carved by glaciers over thousands of years, creating some of the country's most spectacular landscapes. Norway's northern location also produces unusual seasonal light, including the midnight sun during summer and long periods of darkness during winter in the far north. Norwegian culture has a strong relationship with the outdoors, and activities such as hiking, skiing, and spending time in nature are deeply popular. Despite its relatively small population, Norway has developed modern cities while maintaining a strong connection to its natural environment.",
     "category": "Nature",
-     "image": "./src/assets/norway.jpg"
+     "image": "/images/norway.jpg"
   },
   {
     "id": 13,
@@ -595,7 +595,7 @@
     "title": "Ancient Traditions in a Digital Age",
     "content": "South Korea is one of the world's most striking examples of rapid modernization. Seoul is a highly connected city filled with technology, entertainment, fashion, and modern architecture, yet traditional palaces and historic neighborhoods remain part of the urban landscape. Korean culture has also gained enormous global popularity through music, television, film, beauty, and food. At the same time, traditions such as respect for elders, traditional celebrations, and Korean cuisine remain important. The country demonstrates how a society can embrace rapid technological and cultural change while continuing to preserve elements of its historical identity.",
     "category": "Modern Culture",
-     "image": "./src/assets/south korea.jpg"
+     "image": "/images/south korea.jpg"
   },
   {
     "id": 14,
@@ -604,7 +604,7 @@
     "title": "From the Andes to the Pacific",
     "content": "Peru contains an extraordinary range of landscapes, from the dry Pacific coast to the high Andes and the Amazon rainforest. The country is especially famous for Machu Picchu, an ancient Inca site located high in the mountains. The Inca civilization developed sophisticated roads, agriculture, architecture, and systems of government across a huge area of South America. Modern Peru combines Indigenous traditions with Spanish and other cultural influences. Its cuisine is also remarkably diverse, reflecting ingredients and traditions from different regions. Peru is a country where mountains, ancient history, and modern cultural life come together.",
     "category": "History",
-     "image": "./src/assets/peru.jpg"
+     "image": "/images/peru.jpg"
   },
   {
     "id": 15,
@@ -613,7 +613,7 @@
     "title": "A Continent of Extraordinary Wildlife",
     "content": "Australia is both a country and a continent, making it geographically unique. Its enormous size contains deserts, tropical forests, beaches, mountains, and coral reefs. Australia is especially famous for wildlife that evolved in relative isolation, including kangaroos, koalas, wombats, and platypuses. The country is also home to one of the world's most famous natural ecosystems, the Great Barrier Reef. Australia's Indigenous peoples have cultures and histories stretching back tens of thousands of years. Modern Australia combines these ancient traditions with a highly urbanized society centered around cities such as Sydney, Melbourne, Brisbane, and Perth.",
     "category": "Nature",
-     "image": "./src/assets/australia.jpg"
+     "image": "/images/australia.jpg"
   },
   {
     "id": 16,
@@ -622,7 +622,7 @@
     "title": "A Bridge Between Two Continents",
     "content": "Turkey occupies a unique position between Europe and Asia, and its history reflects this geographical crossroads. Istanbul, one of the country's most famous cities, lies across both sides of the Bosphorus Strait and has served as an important center for different empires and cultures. Turkey's landscapes range from Mediterranean beaches to mountains and dry inland plateaus. Its architecture, food, music, and traditions show influences from many civilizations that have passed through the region. This combination of geography and history gives Turkey a distinctive cultural identity that connects different parts of the world.",
     "category": "History",
-     "image": "./src/assets/turkey.jpg"
+     "image": "/images/turkey.jpg"
   },
   {
     "id": 17,
@@ -631,7 +631,7 @@
     "title": "A Land of Temples, Islands, and Street Food",
     "content": "Thailand is known for its tropical islands, Buddhist temples, lively cities, and distinctive cuisine. Bangkok combines enormous shopping centers and modern skyscrapers with traditional temples and busy street markets. Outside the capital, the country offers mountains in the north, tropical forests, rice-growing regions, and beaches surrounded by warm waters. Thai food is famous for balancing flavors such as sweet, sour, salty, bitter, and spicy. Buddhism has strongly influenced Thai art, architecture, and daily life. The country's combination of natural beauty, hospitality, food, and cultural traditions has made it a popular destination for travelers from around the world.",
     "category": "Travel",
-     "image": "./src/assets/thailand.jpg"
+     "image": "/images/thailand.jpg"
   },
   {
     "id": 18,
@@ -640,7 +640,7 @@
     "title": "A Country Shaped by Mountains",
     "content": "Switzerland is famous for the Alps, clear lakes, picturesque villages, and highly organized cities. The country's mountainous geography has influenced everything from transportation to tourism and traditional lifestyles. Switzerland has several official languages, including German, French, Italian, and Romansh, reflecting its position at the crossroads of Europe. It is also known for watchmaking, chocolate, cheese, and financial services. Despite being relatively small, Switzerland contains remarkable geographic variety. Travelers can move from busy urban centers to quiet alpine landscapes within a short distance, making the country feel surprisingly diverse.",
     "category": "Travel",
-     "image": "./src/assets/switherland.jpg"
+     "image": "/images/switherland.jpg"
   },
   {
     "id": 19,
@@ -649,7 +649,7 @@
     "title": "A Land of Ancient History and Living Traditions",
     "content": "Ethiopia has one of Africa's richest historical and cultural traditions. The country is home to ancient sites, dramatic highlands, deep valleys, and unique cultural communities. Historic places such as Lalibela are famous for churches carved directly into rock, while the ancient city of Aksum is associated with one of Africa's great civilizations. Ethiopia is also known for its distinctive cuisine, coffee culture, music, and colorful celebrations. Its landscapes range from the highlands to the Danakil Depression, one of the hottest places on Earth. Ethiopia's long history and diverse traditions give it a cultural identity unlike anywhere else.",
     "category": "History",
-     "image": "./src/assets/ethiopia.jpg"
+     "image": "/images/ethiopia.jpg"
   },
   {
     "id": 20,
@@ -658,7 +658,7 @@
     "title": "Where Mountains Meet the Ocean",
     "content": "New Zealand is made up of two main islands and is famous for its dramatic natural landscapes. Visitors can find snow-covered mountains, green hills, volcanic areas, forests, beaches, and deep fjords within a relatively small geographic area. Māori culture is an important part of the country's identity, with traditions, language, stories, and art continuing to influence modern New Zealand. The country is also known for its outdoor lifestyle, with hiking, kayaking, skiing, and other activities popular among residents and visitors. New Zealand's combination of natural beauty and cultural heritage makes it a fascinating destination for exploration.",
     "category": "Nature",
-     "image": "./src/assets/new zealand.jpg"
+     "image": "/images/new zealand.jpg"
   }
 ],
   "twoblogs": [
