@@ -5,7 +5,7 @@
 }
 
 .contact > div:nth-child(1){
-    background-image: url('./src/assets/9.jpg');
+    background-image: url('/images/9.jpg');
     padding: 150px 20% 110.5px;
     background-position: center;
     background-size:cover ;
