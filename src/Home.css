@@ -694,10 +694,11 @@
 
 .blogdetail .title{
     position: absolute;
+    text-align: center;
     font-size: 70px;
     color: rgb(82, 63, 63);
     opacity: 0;
-    margin: -10% 10px 0px;
+    margin: -10% 10px 40px;
     transform: translateY(100px);
     transition:transform 1s ease ,opacity 1s ease;
 }
@@ -1470,6 +1471,10 @@
     .blogdetail .author{
         margin-top: -250px
     }
+
+    .recommended div div{
+        width: 230px;
+    }
 }
 
 
@@ -1542,18 +1547,22 @@
     .content .reactions{
         font-size: 15px;
     }
+
+    .blogdetail .article{
+        font-size: 30px;
+    }
    
 }
 
 
 @media (max-width:315px) {
     .blogdetail > .title{
-        margin-top: -390px;
+        margin-top: -500px;
         font-size: 25px;
       }
 
     .blogdetail .author{
-        margin-top: -340px
+        margin-top: -440px
     }
 
     .footer .bottom p{
@@ -1568,9 +1577,26 @@
      .youmay h2{
         font-size: 25px;
     }
+
+    .recommended{
+        font-size: 15px;
+    }
+
+    .recommended h3{
+        font-size: 15px;
+    }
 }
 
 @media (max-width:286px) {
+    .blogdetail > .title{
+        margin-top: -600px;
+        font-size: 25px;
+      }
+
+    .blogdetail .author{
+        margin-top: -540px
+    }
+
     .upper input{
         margin: 10px 0px;
     }
